@@ -14,7 +14,7 @@ A physics simulation tool for modeling and visualizing anti-gravity fields.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/anti-gravity-tool-python.git
+git clone https://github.com/venkat-vibecodes/anti-gravity-tool-python.git
 cd anti-gravity-tool-python
 
 # Install dependencies
